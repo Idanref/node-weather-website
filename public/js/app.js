@@ -1,5 +1,3 @@
-console.log('Client side javascript file is loaded');
-
 // This script will run on client side - hence we can use client side functions which will not work on node.
 
 // 'fetch' is an API used only on client side
